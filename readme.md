@@ -4,14 +4,15 @@
 - youtube [Phoenix ReactJS Youtube](https://www.youtube.com/@phoenixreactjs8978)
 
 ## Mission statement
-As a community we aim to aoiwejfiona oaiwfenoaij wefoain wefoia wefino awefefe by aoweifnaowiejfoi awjefoiawje foaiwefojai oaiwjef
+
+As a community we aim to create consistent opportunities for learning, connection, and growth around [React](https://react.dev/) and the related web development ecosystem.
 
 ## React meetup goals
-- engage the community with the latest updates in react
-- host talks + workshops that engage topics ranging from cutting edge, best practice, to developer experience
-- provide a space for newer software engineers to connect with local dev community
-- foster mentorship and collaboration in career and skill development
-- promote open learning
+
+- Engage the community with the latest updates in react
+- Host talks + workshops that engage topics ranging from cutting edge, best practice, to developer experience
+- Provide a space for newer software engineers to connect with the local dev community
+- Foster mentorship, collaboration and [open learning](https://en.wikipedia.org/wiki/Open_learning) in career and skill development
 
 ## current dev deployment steps
 
