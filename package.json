@@ -16,5 +16,11 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "trailingComma": "none"
   }
 }
