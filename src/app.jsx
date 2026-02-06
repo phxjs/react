@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { Text } from '@phxjs/ui/Text/Text';
 import { useOnlineStatus, useTime, useToggle } from './hooks';
+import logoImage from '../assets/phoenix-reactjs-logo.png';
 
 const root = ReactDOM.createRoot(document.body);
 root.render(<App />);
@@ -42,7 +43,7 @@ export function App() {
       <h1 style={{ display: 'flex', justifyContent: 'center' }}>
         <img
           style={{ maxWidth: '900px', width: '100%' }}
-          src="assets/phoenix-reactjs-logo.png"
+          src={logoImage}
           alt="Phoenix ReactJS"
         />
       </h1>
